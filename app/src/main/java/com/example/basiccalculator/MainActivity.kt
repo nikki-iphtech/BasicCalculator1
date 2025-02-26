@@ -62,5 +62,4 @@ class MainActivity : AppCompatActivity() {
 
         output.setText(result.toString())
     }
-
-    }
+}
